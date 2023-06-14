@@ -1,0 +1,14 @@
+graphics:
+	ncurses/derivative for graphics
+	filepath at bottom
+controls:
+	nonmodal (may change later)
+	if character not basic ascii -> dont write it
+	^s save
+	^q quit
+	^f search
+		^n for next
+		^b for previous
+	^c run external command
+data:
+	array of lines
