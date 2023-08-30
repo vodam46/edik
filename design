@@ -9,6 +9,8 @@ controls:
 	^f search
 		^n for next
 		^b for previous
-	^c run external command
+	^x run external command
+	backspace to delete letter
 data:
 	array of lines
+	(may change, depending on implementation)
