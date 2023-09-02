@@ -1,7 +1,7 @@
 CC=cc
 OUT=edik
 CLIBS=-lncurses
-CFLAGS=-Wall -pedantic
+CFLAGS=-Wall -Wextra -pedantic
 
 default: $(OUT)
 

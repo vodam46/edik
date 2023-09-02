@@ -1,3 +1,7 @@
-rewrite the code
-- move into separate functions
-make the find function aware of x position
+rewrite the mallocs and reallocs so they are the correct size
+load_file function
+line split/join function
+improve search into non naïve algorithm
+fix find_word skipping a line or not working when going backwards
+fix diacritics
+- issue with strlen?
